@@ -3,7 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="70e1c73a-1745-406b-9c46-f54c8c35ce9d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cccc.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cccc.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/w.docx" beforeDir="false" afterPath="$PROJECT_DIR$/w.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/w.docx.BASE.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w.docx.LOCAL.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w.docx.REMOTE.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~$docx.REMOTE.docx" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -12,17 +17,11 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="TestProject" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/OJ/OJ_9.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="644">
-              <caret line="28" column="21" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/OJ/OJ_12_DFS.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -47,8 +46,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/OJ/Matrix.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="736">
-              <caret line="32" column="34" lean-forward="true" selection-start-line="32" selection-start-column="34" selection-end-line="32" selection-end-column="34" />
+            <state relative-caret-position="230">
+              <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -122,6 +121,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
@@ -143,6 +143,7 @@
         <option value="$PROJECT_DIR$/src/Test.java" />
         <option value="$PROJECT_DIR$/src/Test1.java" />
         <option value="$PROJECT_DIR$/src/OJ/Matrix.java" />
+        <option value="$PROJECT_DIR$/cccc.txt" />
       </list>
     </option>
   </component>
@@ -153,8 +154,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="309" />
-    <option name="y" value="42" />
+    <option name="x" value="170" />
+    <option name="y" value="12" />
     <option name="width" value="1823" />
     <option name="height" value="1024" />
   </component>
@@ -166,8 +167,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -202,13 +201,15 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1586349709185" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../fcc-main/fcc-main" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1586414215344" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -324,12 +325,21 @@
       <workItem from="1586223684871" duration="976000" />
       <workItem from="1586231228650" duration="34000" />
       <workItem from="1586313276218" duration="1467000" />
-      <workItem from="1586395209220" duration="1505000" />
+      <workItem from="1586395209220" duration="3871000" />
+      <workItem from="1586414334102" duration="308000" />
     </task>
+    <task id="LOCAL-00001" summary="a">
+      <created>1586413699575</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586413699575</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="106939000" />
+    <option name="totallyTimeSpent" value="109613000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -341,27 +351,26 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="309" y="42" width="1823" height="1024" extended-state="0" />
-    <editor active="true" />
+    <frame x="170" y="12" width="1823" height="1024" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1934203" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4983871" visible="true" weight="0.19568917" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Favorites" order="6" sideWeight="0.5016129" side_tool="true" weight="0.18176973" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.31744185" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.38766006" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.3282887" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3275488" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.34157303" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3282887" />
+      <window_info anchor="bottom" x="94" y="374" width="1763" height="300" id="Terminal" order="10" visible="true" weight="0.33707866" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" visible="true" weight="0.32906976" />
       <window_info anchor="bottom" id="Analysis" order="13" />
@@ -390,6 +399,20 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="a" />
+    <option name="LAST_COMMIT_MESSAGE" value="a" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="jar://C:/Program Files/Huawei/jdk1.8.0_242/src.zip!/java/util/Stack.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -413,6 +436,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="644">
           <caret line="28" column="21" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cccc.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="11" selection-start-column="11" selection-end-column="11" />
         </state>
       </provider>
     </entry>
@@ -481,8 +511,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/OJ/Matrix.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="736">
-          <caret line="32" column="34" lean-forward="true" selection-start-line="32" selection-start-column="34" selection-end-line="32" selection-end-column="34" />
+        <state relative-caret-position="230">
+          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
         </state>
       </provider>
     </entry>
